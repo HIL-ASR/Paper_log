@@ -1,2 +1,3 @@
 # Reviewed Paper list
 1. "A BRANCHING DECODER FOR SET GENERATION", ICLR 2024. [pdf](https://openreview.net/pdf?id=riNuqYiD66)
+2. "ALIGN WITH PURPOSE: OPTIMIZE DESIRED PROPERTIES IN CTC MODELS WITH A GENERAL PLUG-ANDPLAY FRAMEWORK", ICLR 2024. [pdf](https://openreview.net/pdf?id=fUGhVYPVRM)
